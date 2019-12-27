@@ -1,3 +1,5 @@
+package Sorting;
+
 public class HeapSort {
     public static void main(String[] args) {
         int[] arr = new int[]{16, 23, 45, 64, 2, 4, 1, 30, 2, 12, 46};
